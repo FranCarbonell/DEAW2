@@ -1,2 +1,2 @@
-# DEAW2
+# libro
 Repositorio para el ejercicio 2
